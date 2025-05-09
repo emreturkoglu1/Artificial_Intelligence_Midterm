@@ -3,7 +3,7 @@
 This project aims to classify flower images using different deep learning models.
 
 ## Author
-**Name:** Emre TÜrkoğlu  
+**Name:** Emre Türkoğlu  
 **Student ID:** 210717046  
 **Department:** Software Engineering  
 **University:** Muğla Sıtkı Koçman University  
