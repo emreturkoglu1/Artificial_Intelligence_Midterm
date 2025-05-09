@@ -1,6 +1,4 @@
-# Data directory
-data/
-data/*
+
 
 # Python
 __pycache__/
