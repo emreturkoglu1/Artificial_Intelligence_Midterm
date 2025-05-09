@@ -14,7 +14,11 @@ This project aims to classify flower images using different deep learning models
 ```
 .
 ├── data/                   # Dataset directory
-│   └── flowers/           # Flower images
+│   ├── test/               # Test images
+│   ├── train/              # Training images with category subfolders
+│   ├── LICENSE.txt         # Dataset license
+│   ├── sample_submission.csv # Sample submission file
+│   └── Testing_set_flower.csv # Test dataset information
 ├── src/                   # Source code
 │   ├── models/           # Model definitions
 │   │   ├── custom_cnn.py     # Custom CNN model
