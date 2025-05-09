@@ -32,7 +32,9 @@ This project aims to classify flower images using different deep learning models
 │   │   ├── train_custom_cnn.py           # Custom CNN training
 │   │   ├── train_vgg16_feature_extractor.py  # VGG16 feature extractor training
 │   │   └── train_vgg16_fine_tuned.py     # VGG16 fine tuning training
-│   └── model_comparison.py           # Model comparison
+│   ├── model_comparison.py           # Model comparison
+│   ├── predict_random.py           # Random prediction script
+│   └── __init__.py                # Python package initialization
 └── output/               # Output directory
     ├── models/          # Trained models
     ├── visualizations/  # Visualizations
