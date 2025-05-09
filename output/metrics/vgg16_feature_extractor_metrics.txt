@@ -1,0 +1,7 @@
+Model: VGG16 Feature Extractor
+Training Time: 1616.69 seconds
+Best Validation Accuracy: 0.8691
+Final Training Loss: 0.0720
+Final Training Accuracy: 0.9863
+Final Validation Loss: 0.3631
+Final Validation Accuracy: 0.8673

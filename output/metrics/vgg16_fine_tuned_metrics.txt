@@ -1,0 +1,7 @@
+Model: VGG16 Fine-Tuned
+Training Time: 1167.18 seconds
+Best Validation Accuracy: 0.9418
+Final Training Loss: 0.0246
+Final Training Accuracy: 0.9927
+Final Validation Loss: 0.2727
+Final Validation Accuracy: 0.9418

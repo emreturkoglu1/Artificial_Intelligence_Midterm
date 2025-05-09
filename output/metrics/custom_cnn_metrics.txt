@@ -1,0 +1,7 @@
+Model: Custom CNN
+Training Time: 1353.43 seconds
+Best Validation Accuracy: 0.7273
+Final Training Loss: 0.4114
+Final Training Accuracy: 0.8525
+Final Validation Loss: 1.0994
+Final Validation Accuracy: 0.6545
