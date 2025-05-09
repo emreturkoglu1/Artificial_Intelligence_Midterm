@@ -2,10 +2,6 @@
 data/
 data/*
 
-# Output directory
-output/models/
-output/models/*
-
 # Python
 __pycache__/
 *.py[cod]
